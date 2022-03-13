@@ -1,4 +1,5 @@
 Zadanie 1
+
 a)	Stwórz klasy dog i cat, które dziedziczyć będą po klasie animal.
 Klasa animal ma następujące atrybuty:
     isAlive = True
@@ -15,6 +16,7 @@ Klasa cat posiada metodę purr, zwracającą string purr.
 
 
 Zadanie 2
+
 Stwórz klasę worker.
 Klasa ma atrybut salary, zwracającą wynagrodzenie.
 Stwórz instancje klasy, o danych wartościach:
