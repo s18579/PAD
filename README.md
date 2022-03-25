@@ -1,1 +1,1 @@
-# PAD Praca Domowa
+# PAD Prace Domowa
