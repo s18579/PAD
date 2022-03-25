@@ -1,18 +1,33 @@
 Zadanie 1 (1 pkt)
-Napisz program w Pythonie, który utworzy funkcjê lambda, która dodaje 15 do podanej liczby przekazanej jako argument, stwórz równie¿ funkcjê lambda, która mno¿y argument x przez argument y i wypisz wynik.
+
+Napisz program w Pythonie, ktÃ³ry utworzy funkcjÄ™ lambda, ktÃ³ra dodaje 15 do podanej liczby przekazanej jako argument, stwÃ³rz rÃ³wnieÅ¼ funkcjÄ™ lambda, ktÃ³ra mnoÅ¼y argument x przez argument y i wypisz wynik.
+
 Zadanie 2 (1 pkt)
-Napisz program w Pythonie do sortowania listy s³owników za pomoc¹ Lambda.
+
+Napisz program w Pythonie do sortowania listy sÅ‚ownikÃ³w za pomocÄ… Lambda.
 [{'make': 'Nokia', 'model': 216, 'color': 'Black'}, {'make': 'Mi Max', 'model': 2, 'color': 'Gold'}, {'make': 'Samsung', 'model': 7, 'color': 'Blue'}]
+
 Zadanie 3 (1 pkt)
-Napisz program w Pythonie, który podniesie do kwadratu i szeœcianu ka¿d¹ liczbê z podanej listy liczb ca³kowitych za pomoc¹ Lambda.
+
+Napisz program w Pythonie, ktÃ³ry podniesie do kwadratu i szeÅ›cianu kaÅ¼dÄ… liczbÄ™ z podanej listy liczb caÅ‚kowitych za pomocÄ… Lambda.
 [1, 2, 3, 4, 5, 6, 7, 8, 9, 10]
+
 Zadanie 4*(3 punkty)
-Stwórz klasê Game, która bêdzie klas¹ bazow¹, z metod¹ z play, która ma w nazwie wskazywaæ, ¿e nie nale¿y jej modyfikowaæ (metoda chroniona), oraz która wyœwietla informacjê o rozpoczêciu gry. Dodatkowo ma zawieraæ liczbê graczy.
-Stwórz drug¹ klasê Hangman, która dziedziczy po klasie Game i pozwoli zagraæ w grê wisielec, gdzie gracz musi odgadn¹æ s³owo, podaj¹c pojedyncze litery.
-Hangman ma 1 albo 2 graczy, przy 2 – jedna osoba wpisuje s³owo do odgadniêcia.
-Gra ma umo¿liwiaæ wybór poziomu trudnoœci (beginner, intermediate, advanced) i w zale¿noœci od wybranego poziomu, dostêpna liczba b³êdnie odgadniêtych liter ma byæ mniejsza. Np. dla poziomu beginner gracz mo¿e pomyliæ siê 8 razy, intermediate 5 razy, a advanced 3 razy.
-W grze mamy te¿ mieæ mo¿liwoœæ wyboru liczby graczy, je¿eli jest jeden to s³owo losowane jest z listy, a je¿eli dwóch graczy, to jeden wpisuje s³owo do odgadniêcia, a drugi je zgaduje.
-Gra mo¿e byæ stworzona dla dowolnego jêzyka, ale jeden jêzyk na grê (np. angielski).
-Zadanie 4 nale¿y oddaæ w formacie .py, tak, ¿eby by³a mo¿liwoœæ uruchomienia i grania w terminalu.
-Do pobierania s³ów/znaków od u¿ytkownika skorzystaj z metody gotowej metody input(). 
-Dodatkowo pamiêtaj o obs³udze wyj¹tków, je¿eli np. to co wpisa³ w terminalu gracz jest spoza dopuszczalnej listy znaków.
+
+StwÃ³rz klasÄ™ Game, ktÃ³ra bÄ™dzie klasÄ… bazowÄ…, z metodÄ… z play, ktÃ³ra ma w nazwie wskazywaÄ‡, Å¼e nie naleÅ¼y jej modyfikowaÄ‡ (metoda chroniona), oraz ktÃ³ra wyÅ›wietla informacjÄ™ o rozpoczÄ™ciu gry. Dodatkowo ma zawieraÄ‡ liczbÄ™ graczy.
+
+StwÃ³rz drugÄ… klasÄ™ Hangman, ktÃ³ra dziedziczy po klasie Game i pozwoli zagraÄ‡ w grÄ™ wisielec, gdzie gracz musi odgadnÄ…Ä‡ sÅ‚owo, podajÄ…c pojedyncze litery.
+Hangman ma 1 albo 2 graczy, przy 2 â€“ jedna osoba wpisuje sÅ‚owo do odgadniÄ™cia.
+
+Gra ma umoÅ¼liwiaÄ‡ wybÃ³r poziomu trudnoÅ›ci (beginner, intermediate, advanced) i w zaleÅ¼noÅ›ci od wybranego poziomu, dostÄ™pna liczba bÅ‚Ä™dnie odgadniÄ™tych liter ma byÄ‡ mniejsza. Np. dla poziomu beginner gracz moÅ¼e pomyliÄ‡ siÄ™ 8 razy, intermediate 5 razy, a advanced 3 razy.
+
+W grze mamy teÅ¼ mieÄ‡ moÅ¼liwoÅ›Ä‡ wyboru liczby graczy, jeÅ¼eli jest jeden to sÅ‚owo losowane jest z listy, a jeÅ¼eli dwÃ³ch graczy, to jeden wpisuje sÅ‚owo do odgadniÄ™cia, a drugi je zgaduje.
+
+Gra moÅ¼e byÄ‡ stworzona dla dowolnego jÄ™zyka, ale jeden jÄ™zyk na grÄ™ (np. angielski).
+
+Zadanie 4 naleÅ¼y oddaÄ‡ w formacie .py, tak, Å¼eby byÅ‚a moÅ¼liwoÅ›Ä‡ uruchomienia i grania w terminalu.
+
+Do pobierania sÅ‚Ã³w/znakÃ³w od uÅ¼ytkownika skorzystaj z metody gotowej metody input(). 
+
+Dodatkowo pamiÄ™taj o obsÅ‚udze wyjÄ…tkÃ³w, jeÅ¼eli np. to co wpisaÅ‚ w terminalu gracz jest spoza dopuszczalnej listy znakÃ³w.
+
