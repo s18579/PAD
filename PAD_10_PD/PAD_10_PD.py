@@ -4,7 +4,7 @@ import time
 import plotly.express as px
 
 # Zadanie 1
-# Zakladki Ankieta i slatyslyka (1 pkt)
+# Zakladki Ankieta i Statystyka (1 pkt)
 
 sl.sidebar.title('PAD_10_PD')
 radiobox = sl.sidebar.radio('Wybierz zakladke:', ['Ankieta', 'Statystyka'])
