@@ -14,9 +14,13 @@ Projekt w ramach zaliczenia przedmiotu PAD polega na zebraniu danych wraz z czys
 6.	*Podjęcie decyzji czy problem jest klasyfikacyjny czy regresyjny i z pomocą biblioteki sklearn wybór dowolnego modelu i jego ewaluacja za pomocą accuracy albo F1 score (w zależności od rozkładu danych).
 
 ## Wymagania:
+
 Na **3**: Etapy 1-5 i dane znalezione na Kaggle/w innym miejscu
+
 Na **4**: Etapy 1-6 i dane znalezione na Kaggle/w innym miejscu
+
 Na **5**: Etapy 1-6 i własne dane pozyskane przez web scraping
+
 
 ## Forma oddania:
 Należy stworzyć albo jupyter notebook, który będzie zawierał dashboard albo stronę stworzoną z wykorzystaniem biblioteki streamlit, kod źródłowy wrzucić i oddać jako repozytorium na githubie.
