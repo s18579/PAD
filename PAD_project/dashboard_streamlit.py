@@ -49,7 +49,7 @@ elif selected == "Wykresy":
     st.write("Jako ze caly projekt opiera sie na cenie **Exalted Orba** duza czesc wykresow bedzie miala glowny czynnik jako Cene.")
     graph = st.selectbox("Wybierz rodzaj wykresu",
                          ["Wybierz...", "Cena do Typu i Długosci Ligi", "Cena do Nazwy Ligi", "Cena do Tygodni Lig",
-                          "Srednia cena Ligi", "Ocena a długość"])
+                          "Srednia cena Ligi"])
     if graph == "Cena do Typu i Długosci Ligi":
         st.write("### Histogram Ceny do Długosci Ligi")
         st.write(
