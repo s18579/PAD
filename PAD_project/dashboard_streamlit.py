@@ -9,7 +9,7 @@ st.sidebar.title('Projekt z Programowania dla Analityki Danych')
 with st.sidebar:
     selected = option_menu("Menu", ["Strona główna", 'Dane', 'Wykresy'], icons=[
                            'house', 'book', 'calculator'], default_index=0)
-    df = pd.read_csv('Leagues_final.csv', sep=";")
+    df = pd.read_csv('PAD_project/Leagues_final.csv', sep=";")
 
 # -- Ramka danych --
 if selected == "Dane":
