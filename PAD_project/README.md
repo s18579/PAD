@@ -1,5 +1,7 @@
 # PAD – projekt zaliczeniowy
 
+Odnosnik do dashboardu: [TUTAJ](https://s18579-pad-pad-projectdashboard-streamlit-adqe73.streamlitapp.com/)
+
 ## OPIS:
 
 Projekt w ramach zaliczenia przedmiotu PAD polega na zebraniu danych wraz z czyszczeniem i analizą, stworzeniu dashboardu przedstawiającego zebrane dane, oraz wrzuceniu ich do wybranego modelu klasyfikacji/regresji (w zależności od wybranego problemu). 
